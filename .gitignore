@@ -18,6 +18,7 @@ jspm_packages/
 .env.local
 
 *.key
+*.cert
 
 data/
 images/
